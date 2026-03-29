@@ -141,8 +141,8 @@ Bug list:
   color: #000000; /* BUG */
 }
 
-4) <input id="username" placeholder="Username">
-<input id="password" type="password" placeholder="Password">
+4) input id="username" placeholder="Username">
+input id="password" type="password" placeholder="Password">
 
 5) const res = await fetch(API + "/api/products");
 
@@ -160,9 +160,9 @@ Bug list:
 
 9) res.json({ success: req.body.username === ADMIN.username && req.body.password === ADMIN.password }); 
 
-10) <a href="cart.html">Cart</a>
-    <a href="register.html">Register</a>
-    <a href="login.html">Back</a>
+10) a href="cart.html">Cart</a>
+    a href="register.html">Register</a>
+    a href="login.html">Back</a>
 
 11)     <h4>${p.name}</h4>
         <p>₹${p.price}</p>
